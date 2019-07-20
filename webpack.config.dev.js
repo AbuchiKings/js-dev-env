@@ -1,6 +1,5 @@
 import path from 'path';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
-import LoaderOptionsPlugin from 'webpack'
 import webpack from 'webpack'
 
 export default {
