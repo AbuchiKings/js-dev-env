@@ -12,18 +12,17 @@
     "localtunnel": "lt --port 3000",
     "test": "mocha --reporter progress buildScripts/testSetup.js \"src/**/*.test.js\"",
     "test:watch": "npm run test -- --watch",
-
     "share": "npm-run-all open:src localtunnel"
   },
   "author": "Abuchi Ndinigwe",
   "license": "MIT",
   "dependencies": {
-    "@babel/node": "^7.5.5",
-    "whatwg-fetch": "1.0.0"
+    "whatwg-fetch": "^1.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
     "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
     "@babel/register": "^7.5.5",
     "ajv": "^5.5.2",
