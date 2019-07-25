@@ -1,0 +1,52 @@
+{
+    "users": [
+        {
+            "id": 29455470,
+            "firstName": "Kareem",
+            "lastName": "Hansen",
+            "email": "Sherwood.Greenholt14@yahoo.com"
+        },
+        {
+            "id": 53411561,
+            "firstName": "Karley",
+            "lastName": "Swaniawski",
+            "email": "Augusta_Torphy@gmail.com"
+        },
+        {
+            "id": 83089149,
+            "firstName": "Riley",
+            "lastName": "Murray",
+            "email": "Reina57@gmail.com"
+        },
+        {
+            "id": 20930539,
+            "firstName": "Carmen",
+            "lastName": "Hilpert",
+            "email": "Issac_Hettinger25@yahoo.com"
+        },
+        {
+            "id": 43226048,
+            "firstName": "Pink",
+            "lastName": "Wolff",
+            "email": "Garrett13@yahoo.com"
+        },
+        {
+            "id": 9839198,
+            "firstName": "Alba",
+            "lastName": "O'Hara",
+            "email": "Jade_Turner@hotmail.com"
+        },
+        {
+            "id": 33283882,
+            "firstName": "Freda",
+            "lastName": "Armstrong",
+            "email": "Marcelina34@yahoo.com"
+        },
+        {
+            "id": 74608789,
+            "firstName": "Violette",
+            "lastName": "Gottlieb",
+            "email": "Aditya_Rice@yahoo.com"
+        }
+    ]
+}
