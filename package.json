@@ -20,7 +20,7 @@
   "author": "Abuchi Ndinigwe",
   "license": "MIT",
   "dependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "whatwg-fetch": "^1.0.0"
   },
   "devDependencies": {
